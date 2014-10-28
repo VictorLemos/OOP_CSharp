@@ -1,0 +1,12 @@
+E:\C# e seus Fundamentos\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.exe.config
+E:\C# e seus Fundamentos\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.exe
+E:\C# e seus Fundamentos\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.pdb
+E:\C# e seus Fundamentos\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csprojResolveAssemblyReference.cache
+E:\C# e seus Fundamentos\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csproj.GenerateResource.Cache
+E:\C# e seus Fundamentos\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.exe
+E:\C# e seus Fundamentos\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.pdb
+E:\C# e seus Fundamentos\CaixaEletronico\CaixaEletronico\obj\Debug\Oop.CaixaEletronico.Form1.resources
+E:\C# e seus Fundamentos\CaixaEletronico\CaixaEletronico\obj\Debug\Oop.CaixaEletronico.Properties.Resources.resources
+C:\Users\HarO\Desktop\Projetos_Para_Divulgar\DotNet\OOP_C#\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.exe.config
+C:\Users\HarO\Desktop\Projetos_Para_Divulgar\DotNet\OOP_C#\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.exe
+C:\Users\HarO\Desktop\Projetos_Para_Divulgar\DotNet\OOP_C#\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.pdb
